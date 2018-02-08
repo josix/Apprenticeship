@@ -3,8 +3,6 @@
 - [ ] Embedding propagation ([Learning Graph Representations with Embedding Propagation](https://arxiv.org/abs/1710.03059), NIPS'17)
 - [ ] DeepWalk ([DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14)
 - [ ] What are asnyc, await, promise?
-- [ ] How Ｗebpack works?
-- [ ] How React works?
 - [ ] What is entropy in decision tree?
 - [ ] What is PCA in detail?
 - [ ] What is the kernel in SVM in detail?
