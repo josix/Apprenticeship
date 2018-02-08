@@ -12,6 +12,8 @@ I would greatly appreciate it if you kindly give me some feedback on this readin
 - [ ] [struc2vec: Learning Node Representations from Structural Identity](https://arxiv.org/abs/1704.03165)
 - [ ] [Nonlinear dimensionality reduction by locally linear embedding](http://www.robots.ox.ac.uk/~az/lectures/ml/lle.pdf)
 - [ ] [An Introduction to Locally Linear Embedding](https://cs.nyu.edu/~roweis/lle/papers/lleintro.pdf)
+- [ ] Learning From Data(Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin)
+- [ ] Deep Learning(Ian Goodfellow, Yoshua Bengio, Aaron Courville)
 
 # To be Confirmed If I am Qualified to Read These Books
 --empty--
