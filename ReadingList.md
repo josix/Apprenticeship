@@ -2,9 +2,9 @@
 I would greatly appreciate it if you kindly give me some feedback on this reading list.
 
 2018/02/09 updated
-- [ ] [Learning Graph Representations with Embedding Propagation](https://arxiv.org/abs/1710.03059) (Start reading at 2018/01/31 70%)
-- [ ] Apprenticeship patterns: Guidance for the Aspiring Software Craftsman (Start reading at 2018/02/01 50%)
-- [ ] [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652) (Start reading at 2018/02/04 30%)
+- [ ] [Learning Graph Representations with Embedding Propagation](https://arxiv.org/abs/1710.03059) (Start reading on 2018/01/31 70%)
+- [ ] Apprenticeship patterns: Guidance for the Aspiring Software Craftsman (Start reading on 2018/02/01 50%)
+- [ ] [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652) (Start reading on 2018/02/04 30%)
 - [ ] Effective Python
 - [ ] Design Pattern
 - [ ] The Mythical Man-Month: Essays on Software Engineering
@@ -14,6 +14,7 @@ I would greatly appreciate it if you kindly give me some feedback on this readin
 - [ ] [An Introduction to Locally Linear Embedding](https://cs.nyu.edu/~roweis/lle/papers/lleintro.pdf)
 - [ ] Learning From Data(Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin)
 - [ ] Deep Learning(Ian Goodfellow, Yoshua Bengio, Aaron Courville)
+- [ ] [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/book/praise.harry.html)(Harry Percival)
 
 # To be Confirmed If I am Qualified to Read These Books
 --empty--
