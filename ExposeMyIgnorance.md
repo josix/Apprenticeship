@@ -1,5 +1,5 @@
 # 無知清單
-(20180207 updated)
+(20180210 updated)
 - [ ] Embedding propagation ([Learning Graph Representations with Embedding Propagation](https://arxiv.org/abs/1710.03059), NIPS'17)
 - [ ] DeepWalk ([DeepWalk: Online Learning of Social Representations](http://dl.acm.org/citation.cfm?id=2623732), KDD'14)
 - [ ] What are asnyc, await, promise?
@@ -8,6 +8,7 @@
 - [ ] What is the kernel in SVM in detail?
 - [ ] What is gradient descent?
 - [ ] How word embedding works?
+- [ ] What is 'invocation' and 'inspection' means in PEP 3119? Is there any Example?
 
 ## More Detail
 無知清單的建立來自於《學徒模式，優秀軟體開發者的養成之路》(Apprenticeship patterns: Guidance for the Aspiring Software Craftsman)中第二章倒空杯子:
