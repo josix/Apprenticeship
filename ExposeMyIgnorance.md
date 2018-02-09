@@ -8,7 +8,7 @@
 - [ ] What is the kernel in SVM in detail?
 - [ ] What is gradient descent?
 - [ ] How word embedding works?
-- [ ] What is 'invocation' and 'inspection' means in PEP 3119? Is there any Example?
+- [ ] What is 'invocation' and 'inspection' means in [PEP 3119](https://www.python.org/dev/peps/pep-3119/#id13)? Is there any Example?
 
 ## More Detail
 無知清單的建立來自於《學徒模式，優秀軟體開發者的養成之路》(Apprenticeship patterns: Guidance for the Aspiring Software Craftsman)中第二章倒空杯子:
