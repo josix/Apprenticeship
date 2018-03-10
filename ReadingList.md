@@ -6,6 +6,8 @@ I would greatly appreciate it if you kindly give me some feedback on this readin
 - [ ] Apprenticeship patterns: Guidance for the Aspiring Software Craftsman (Start reading on 2018/02/01 50%)
 - [ ] [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652) (Start reading on 2018/02/04 30%)
 - [ ] Effective Python
+- [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+- [ ] [The Python Language Reference](https://docs.python.org/3/reference/index.html)
 - [ ] Design Pattern
 - [ ] The Mythical Man-Month: Essays on Software Engineering
 - [ ] [LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578)
