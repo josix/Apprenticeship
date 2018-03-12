@@ -19,6 +19,7 @@ I would greatly appreciate it if you kindly give me some feedback on this readin
 - [ ] Learning From Data(Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin)
 - [ ] Deep Learning(Ian Goodfellow, Yoshua Bengio, Aaron Courville)
 - [ ] [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/book/praise.harry.html)(Harry Percival)
+- [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)
 - [ ] Cracking the Coding Interview
 
 # To be Confirmed If I am Qualified to Read These Books
