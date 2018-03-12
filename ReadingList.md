@@ -22,9 +22,6 @@ I would greatly appreciate it if you kindly give me some feedback on this readin
 - [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)
 - [ ] Cracking the Coding Interview
 
-# To be Confirmed If I am Qualified to Read These Books
---empty--
-
 # More Detail
 閱讀清單來自於《學徒模式，優秀軟體開發者的養成之路》(Apprenticeship patterns: Guidance for the Aspiring Software Craftsman)中第六章, 安排自我課程:
 
