@@ -20,6 +20,7 @@ I would greatly appreciate it if you kindly give me some feedback on this readin
 - [ ] Deep Learning(Ian Goodfellow, Yoshua Bengio, Aaron Courville)
 - [ ] [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/book/praise.harry.html)(Harry Percival)
 - [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)
+- [ ] [Refactoring: Improving the Design of Existing Code](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
 - [ ] Cracking the Coding Interview
 
 # More Detail
