@@ -9,7 +9,7 @@ I would greatly appreciate it if you kindly give me some feedback on this readin
 - [ ] [DeepWalk: Online Learning of Social Representations](https://arxiv.org/abs/1403.6652) (Start reading on 2018/02/04 30%)
 - [ ] Effective Python
 - [ ] [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
-- [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html)
+- [ ] [Structure and Interpretation of Computer Programs](http://web.mit.edu/alexmv/6.037/sicp.pdf)
 - [ ] [The Python Language Reference](https://docs.python.org/3/reference/index.html)
 - [ ] Design Pattern
 - [ ] The Mythical Man-Month: Essays on Software Engineering
@@ -22,6 +22,7 @@ I would greatly appreciate it if you kindly give me some feedback on this readin
 - [ ] [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/book/praise.harry.html)(Harry Percival)
 - [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)
 - [ ] [Refactoring: Improving the Design of Existing Code](https://www.csie.ntu.edu.tw/~r95004/Refactoring_improving_the_design_of_existing_code.pdf)
+- [ ] Agile Software Development: Principles, Patterns, and Practices
 - [ ] Cracking the Coding Interview
 
 # More Detail
